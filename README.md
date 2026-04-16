@@ -1,5 +1,6 @@
 <!-- ## End to End Machine Learning Project -->
 🎓 Student Performance Tracker
+
 🚀 Overview
 
 The Student Performance Tracker is a data-driven project designed to analyze and predict student performance based on various academic and socio-economic factors.
@@ -12,6 +13,7 @@ It leverages data analysis, visualization, and machine learning models to uncove
 🤖 Build machine learning models to predict performance
 📉 Compare multiple models using evaluation metrics
 🧠 Generate actionable insights for improvement
+
 🧠 Tech Stack
 Programming Language: Python 🐍
 Libraries:
