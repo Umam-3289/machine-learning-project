@@ -9,9 +9,9 @@ from dataclasses import dataclass
 
 @dataclass
 class DataIngestionConfig:
-    train_data_path: str=os.path.join("artifacts","train.data")
-    test_data_path: str=os.path.join("artifacts","test.data")
-    raw_data_path: str=os.path.join("artifacts","raw.data")
+    train_data_path: str=os.path.join("artifacts","train.csv")
+    test_data_path: str=os.path.join("artifacts","test.csv")
+    raw_data_path: str=os.path.join("artifacts","raw.csv")
 
 class DataIngestion:
     def __init__(self):
